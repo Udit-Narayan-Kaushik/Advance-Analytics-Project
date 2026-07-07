@@ -66,7 +66,7 @@ An international retailer with 18,469 customers and $29.36M in revenue faced ext
 
 # Tools Used
 
-#### MySQL: CTEs, CASE WHEN, LAG(), TIMESTAMPDIFF
+#### MySQL: CTEs, Window Functions, Joins, Subqueries
 #### Python: Pandas for Margin Analysis, Seaborn for Data Visualization
 #### Analytics: Customer Lifespan Analysis, Inventory Aging, Gross Margin Optimization
-#### Data Visualisation: Power BI
+#### Data Visualisation: Power BI, DAX Measures
