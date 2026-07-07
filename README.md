@@ -11,10 +11,9 @@ An international retailer with 18,469 customers and $29.36M in revenue faced ext
 #### . Why are "High-Performer" products becoming stagnant? 
 #### . What is the "Profit Gap" between volume and value? 
 
-## Visuals
+## Power BI Dashboard
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/9cb02384-04c2-4658-922b-6e4fbb5932eb" />
-<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/64c4a081-9715-44f7-8b0d-78ed79f5c166" />
+<img width="1248" height="717" alt="Screenshot 2026-07-03 204604" src="https://github.com/user-attachments/assets/e1ef3cda-f80d-4975-afbb-6aeaf440a3fb" />
 
 ## Project Structure
 
@@ -70,3 +69,4 @@ An international retailer with 18,469 customers and $29.36M in revenue faced ext
 #### MySQL: CTEs, CASE WHEN, LAG(), TIMESTAMPDIFF
 #### Python: Pandas for Margin Analysis, Seaborn for Data Visualization
 #### Analytics: Customer Lifespan Analysis, Inventory Aging, Gross Margin Optimization
+#### Data Visualisation: Power BI
